@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/layoutui/static/css/main.31d6cfe0.css",
+    "main.js": "/layoutui/static/js/main.eaecf421.js",
+    "index.html": "/layoutui/index.html",
+    "main.eaecf421.js.map": "/layoutui/static/js/main.eaecf421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.eaecf421.js"
+  ]
+}
